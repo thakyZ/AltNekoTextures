@@ -1,15 +1,11 @@
-^#EA9931;Make neko bois feminine again!^reset;
-
-Just alters the body sprite for male nekos in the Neko Alternate mod.
+^#EA9931;Just alters the body sprite for the Neko Alternate mod.^reset;
 
 Credits:
 ^#A451C4;Lillnex^reset; ^#9BBA3D;https://github.com/Lillnex^reset; Body sprite
 ^#A451C4;kittycat2002^reset; ^#9BBA3D;https://github.com/kittycat2002^reset; Neko Alternate mod
-^#A451C4;Harvey^reset; ^#9BBA3D;https://steamcommunity.com/profiles/76561198057844712^reset; Femboy Bodies mod
-^#A451C4;Achromatic^reset; ^#9BBA3D;https://steamcommunity.com/profiles/76561198136649623^reset; Flattest Chest mod
 
-^#A451C4;Gitlab:^reset; ^#9BBA3D;https://git.voidinc.net/thakyZ/FemboyNekos/^reset;
-^#A451C4;Lovers Lab:^reset; ^#9BBA3D;https://www.loverslab.com/files/file/7684-sexbound-neko-alternate/^reset;
+^#A451C4;Github:^reset; ^#9BBA3D;https://github.com/thakyZ/AltNekoTextures^reset;
+^#A451C4;Chucklefish Forums:^reset; ^#9BBA3D;Coming soon.^reset;
 ^#A451C4;Steam Workshop:^reset; ^#9BBA3D;Coming soon.^reset;
 
 This mod requires the Neko Alternate mod by Cat2002.

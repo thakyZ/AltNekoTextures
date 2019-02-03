@@ -1,12 +1,11 @@
 # Alternate Neko Alternate Textures
 
-**Make neko bois feminine again!**
+**Just alters the body sprite for the Neko Alternate mod.**
 
+**Images Coming Soon.**
 <!--![Cover Image](https://github.com/thakyZ/AltNekoTextures/media/cover.png)   -->
 <!--![Character Selection Without Mod](https://github.com/thakyZ/AltNekoTextures/media/image0.png)   -->
 <!--![Character Selection With Mod](https://github.com/thakyZ/AltNekoTextures/media/image1.png)-->
-
-Just alters the body sprite for male nekos in the Neko Alternate mod.
 
 Credits:   
 [Lillnex](https://github.com/Lillnex) Body sprite   
